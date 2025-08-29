@@ -88,5 +88,4 @@ Compared performance of different ML algorithms in both classification and regre
 - Activate the environment (do this every time you open a new terminal): `conda activate your_env_name`
 - Install the requirements into this conda env: `pip install --user --requirement requirements.txt`
 - Run the jupyter notebook: `jupyter notebook`
-## Reference
-- [scikit-learn](https://scikit-learn.org/stable/)
+
